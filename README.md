@@ -8,7 +8,6 @@ Describe specific features of your extension including screenshots of your exten
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(images/feature-x.png\)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
@@ -55,16 +54,41 @@ Ensure that you've read through the extensions guidelines and follow the best pr
 * [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
 
 ## Working with Markdown
+# ToDo-show extension
 
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+This extension "todo-show" is needed to show all yours "ToDo's". 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Usage
 
-### For more information
+Todo's should be described using the same template:
+* `//ToDo: smth`
+* `/*ToDo: smth */`
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<!-- ## Release Notes
 
-**Enjoy!**
+### 1.0.0
+
+Initial release of ... -->
+
+-----------------------------------------------------------------------------------------------------------
+
+This version supports programming languages as:
+* ActionScript 
+* C (C99) 
+* C++ 
+* C# 
+* D
+* F#
+* Go
+* Java
+* JavaScript
+* TypeScript
+* Kotlin
+* Object Pascal (Delphi)
+* Objective-C
+* PHP
+* Rust
+* Scala
+* SASS
+* Swift
+* Xojo
